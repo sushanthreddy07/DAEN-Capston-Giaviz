@@ -71,7 +71,7 @@ Susanth Reddy Rachel - Scrum Master: Susanth is responsible for guiding the team
 
 Madhu Yamini Nainala - Product Owner: Madhu is the voice of the customer. The Product Owner is responsible for defining the product vision, managing the product backlog, and prioritizing features to ensure the team is building the right product.
 
-Shri Ram Jawahar Vennela - Developer: As a developer, Shri Ram is part of the team that builds the product. This role involves designing, coding, testing, and maintaining the software.
+Sri Ram Jawahar Vennela - Developer: As a developer, Shri Ram is part of the team that builds the product. This role involves designing, coding, testing, and maintaining the software.
 
 Uday Sai Shankar Kola - Developer: Uday is also a developer, contributing to the creation of the product. This role is a key part of the development team and involves the technical work of building the project.
 
